@@ -1,1 +1,1 @@
-a main file to test for lthe positive or negative of a function
+a main file to test for the positive or negative of a function

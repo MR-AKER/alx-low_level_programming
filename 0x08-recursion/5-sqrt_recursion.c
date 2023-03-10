@@ -1,10 +1,10 @@
 #include "main.h"
 
 
-int_sqrt(int, int);
+int _sqrt(int, int);
 
 /**
- * _sqrt_recursion - -sqrt recursion
+ * _sqrt_recursion - sqrt recursion
  * @n: squrt param
  * Return: sqrt of num.
  */
@@ -22,7 +22,7 @@ int _sqrt_recursion(int n)
  * Return: a num
  */
 
-int _sqrt_recursion(int n, int i)
+int _sqrt(int n, int i)
 {
 	int square = i * i;
 
